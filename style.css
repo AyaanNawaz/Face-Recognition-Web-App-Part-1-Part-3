@@ -1,0 +1,35 @@
+body{
+color: red;
+background: rgb(175, 248, 255);
+}
+#result_object_name, #result_object_accuracy
+{
+color: rgb(0, 136, 255);
+font-size: 20;
+font-family: Arial;
+}
+.name_of_objects{
+    color: rgb(0, 148, 221);
+    font-size: 30;
+    font-family: Arial;
+}
+.heading{
+width: 80%;
+font-size: 22px;
+background-color: rgb(32, 192, 255);
+}
+#camera{
+width: 320;
+height: 250;
+}
+#result{
+    border: 2px dashed black;
+    width: 320;
+    height: 250;
+    }
+hr{
+    height: 1px;
+    width: 1000px;
+    background-color: rgb(95, 94, 94);
+    border: none;
+}
